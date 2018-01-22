@@ -1,26 +1,29 @@
 ### Hey there my name is Júlio Moraes👋,
-<br />
-<h4>I am a professional with over fifteen years of experience working in the IT area, where I had the opportunity to work in various fields of activity, thus obtaining a well diversified knowledge. My most recent work has been in the Development and Management areas, with focus on back-end, database, and web systems infrastructure, aiming for excellence in the use of good development practices and design standards. I am always looking for new knowledge and to pass on the knowledge acquired in my professional career. I believe that this posture is fundamental for the update and constant evolution in a broad segment, marked by challenges and changes.</h4>
-<br />
+
+<p style="text-align: justify; padding: 15px 0px">I am a professional with over fifteen years of experience working in the IT area, where I had the opportunity to work in various fields of activity, thus obtaining a well diversified knowledge. My most recent work has been in the Development and Management areas, with focus on back-end, database, and web systems infrastructure, aiming for excellence in the use of good development practices and design standards. I am always looking for new knowledge and to pass on the knowledge acquired in my professional career. I believe that this posture is fundamental for the update and constant evolution in a broad segment, marked by challenges and changes.</p>
 
 ### Technologies that I've had the most contact with:
 
 <div>
-  <div style="display: block"><br>
-    <img align="center" alt="juliomoraes-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="juliomoraes-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="juliomoraes-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="juliomoraes-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="juliomoraes-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="juliomoraes-dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="juliomoraes-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="juliomoraes-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="juliomoraes-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="juliomoraes-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="juliomoraes-microsoftsqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="center" alt="juliomoraes-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="juliomoraes-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="juliomoraes-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <div style="display: block; text-align: justify"><br>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-microsoftsqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-amazonwebservices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="juliomoraes-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 </div>
 <br />
 
