@@ -6,7 +6,7 @@
 
 <div>
   <div style="display: block; text-align: justify"><br>
-    <a href="https://github.com/juliomoraes"><img alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
+    <a href="https://github.com/juliomoraes"><img alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></a>
     <a href="https://github.com/juliomoraes"><img alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
     <a href="https://github.com/juliomoraes"><img alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
     <a href="https://github.com/juliomoraes"><img alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
