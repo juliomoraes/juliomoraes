@@ -1,4 +1,4 @@
-### Hey there my name is Júlio Moraes👋,
+### Hey there my name is Júlio Moraes 👋,
 
 <p style="text-align: justify; padding: 15px 0px">I am a professional with over fifteen years of experience working in the IT area, where I had the opportunity to work in various fields of activity, thus obtaining a well diversified knowledge. My most recent work has been in the Development and Management areas, with focus on back-end, database, and web systems infrastructure, aiming for excellence in the use of good development practices and design standards. I am always looking for new knowledge and to pass on the knowledge acquired in my professional career. I believe that this posture is fundamental for the update and constant evolution in a broad segment, marked by challenges and changes.</p>
 
