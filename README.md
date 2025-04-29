@@ -8,6 +8,7 @@ I'm passionate about learning and sharing knowledge—constantly updating myself
 
 ### 💻 Technologies & Tools
 
+
 <div align="left">
   <a href="https://github.com/juliomoraes"><img alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></a>
   <a href="https://github.com/juliomoraes"><img alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
@@ -28,7 +29,7 @@ I'm passionate about learning and sharing knowledge—constantly updating myself
   <a href="https://github.com/juliomoraes"><img alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/></a>
   <a href="https://github.com/juliomoraes"><img alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 </div>
-
+<br/>
 ────────────────────────────────────────────────────────────
 
 ### 📫 Where to find me
