@@ -4,7 +4,7 @@ I am an IT professional with over 17 years of experience, having worked in diver
 
 I'm passionate about learning and sharing knowledge—constantly updating myself to keep pace with an industry defined by rapid change and constant challenges.
 
-─────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────
 
 ### 💻 Technologies & Tools
 
@@ -30,7 +30,7 @@ I'm passionate about learning and sharing knowledge—constantly updating myself
   <a href="https://github.com/juliomoraes"><img alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 </div>
 <br/>
-─────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 ### 📫 Where to find me
 
